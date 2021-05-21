@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/oyinoseni/Social-Proof-Section)
-- Live Site URL: [Add live site URL here](https://oyinoseni.github.io/Social-Proof-Section/Source)
+- Live Site URL: [Add live site URL here](https://oyinoseni.github.io/Social-Proof-Section/)
 
 
 ### Built with
