@@ -60,7 +60,7 @@ I need to improve on CSS Grid and Positioning.
 ## Author
 
 Oyindamola Oseni
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/oyinoseni)
+- Frontend Mentor - [@oyinoseni](https://www.frontendmentor.io/profile/oyinoseni)
 - Twitter - [@_damola](https://www.twitter.com/_damola)
 
 
